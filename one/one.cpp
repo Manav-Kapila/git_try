@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 
-    cout<<"\n ONE ";
+    cout<<"\n ONE NUMBER FILE ";
     return 0;
 }
